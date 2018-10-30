@@ -1,0 +1,14 @@
+
+  <p class="text-muted">
+    {% if post %}
+      {% assign tags = post.tags %}
+      {% assign resource = post %}
+    {% else %}
+      {% assign tags = page.tags %}
+      {% assign resource = page %}
+    {% endif %}
+
+
+    {{ resource.date | date_to_string }}
+    
+  </p>
