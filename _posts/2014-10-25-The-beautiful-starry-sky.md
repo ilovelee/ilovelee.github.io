@@ -1,6 +1,9 @@
 ---
+layout: post
 title: "The beautiful starry sky"
 author: "流浪的星星"
+tags: [original, '原创']
+date: 2014-10-25 16:05:55
 ---
 
 
