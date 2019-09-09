@@ -6,5 +6,7 @@ items:
     path: '/archive'
   - text: 'About'
     path: '/about'
+  - text: '转载'
+    path: '/reproduce'
   - text: 'Start'
     path: '/index.html'
