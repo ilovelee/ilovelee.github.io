@@ -1,6 +1,6 @@
 ---
 title: "Markdown demo"
-tags: [demo, markdown]
+tags: [demo, ]
 ---
 
 Different examples of markdown content.
