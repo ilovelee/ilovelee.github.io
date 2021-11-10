@@ -4,9 +4,9 @@ url: "poboo.github.io" # the base hostname & protocol for your site.
 paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
-# header text
+# header text vagrant, wanderer, tramp, satyr
 title: The Twelve Dancing Princesses :)
-header: A vagrant, wanderer, tramp, vagabond, satyr... 
+header: A vagabond... 
 
 # for welcome page
 # to replace image go to index.html
