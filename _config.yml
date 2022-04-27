@@ -1,18 +1,22 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "poboo.github.io" # the base hostname & protocol for your site.
+url: "ilovelee.github.io" # the base hostname & protocol for your site.
 
 paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 # header text vagrant, wanderer, tramp, satyr
 title: The Twelve Dancing Princesses :)
-header: A vagabond... 
+header: 我什么也不是…… I'm nothing...
 
 # for welcome page
 # to replace image go to index.html
+wechat:
+  text:"Just do nothing"
+
+
 email:
-  address: "poboerz@163.com"
-  text: "poboerz#163.com"
+  address: ""
+  text: ""
 
 
 gems:
