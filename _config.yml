@@ -11,7 +11,7 @@ header: I'm nothing...
 # for welcome page
 # to replace image go to index.html
 wechat:
-  text:"Just do nothing"
+  text: "Just do nothing"
 
 
 email:

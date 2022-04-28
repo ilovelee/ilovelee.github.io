@@ -6,5 +6,5 @@ items:
     path: '/archive'
   - text: 'About'
     path: '/about'
-  - text: 'Start'
+  - text: 'Home'
     path: '/index.html'
