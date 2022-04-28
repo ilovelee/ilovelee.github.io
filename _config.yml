@@ -6,7 +6,7 @@ paginate_path: /blog/page:num #makes pagination working
 
 # header text vagrant, wanderer, tramp, satyr
 title: The Twelve Dancing Princesses :)
-header: 我什么也不是…… I'm nothing...
+header: I'm nothing...
 
 # for welcome page
 # to replace image go to index.html
